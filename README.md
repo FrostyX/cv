@@ -7,8 +7,8 @@ Based on [Friggeri Resume/CV](http://www.latextemplates.com/template/friggeri-re
 
 
 ## Requirements
-- dev-texlive/texlive-xetex
-- media-fonts/roboto
+- `dev-texlive/texlive-xetex`
+- `media-fonts/roboto`
 
 ## Build
 
