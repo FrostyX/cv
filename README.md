@@ -1,5 +1,5 @@
 # CV
-Jakub Kadlčík - curriculum vitae
+Jakub Kadlčík - curriculum vitae | [Download](https://github.com/FrostyX/cv/raw/master/jakub-kadlcik-cv.pdf)
 
 Based on [Friggeri Resume/CV](http://www.latextemplates.com/template/friggeri-resume-cv)
 
