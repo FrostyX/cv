@@ -11,3 +11,5 @@ Based on [Friggeri Resume/CV](http://www.latextemplates.com/template/friggeri-re
 ## Build
 
 	xelatex jakub-kadlcik-cv.tex
+
+Run the command multiple times on the first build.
