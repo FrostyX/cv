@@ -1,4 +1,4 @@
-FROM fedora:23
+FROM fedora:latest
 MAINTAINER Jakub Kadlcik <frostyx@email.cz>
 
 WORKDIR /src
