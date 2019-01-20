@@ -9,6 +9,7 @@ RUN dnf -y install \
 	texlive-parskip \
 	texlive-biblatex \
 	texlive-lm-math \
+	texlive-textpos \
 	google-roboto-fonts \
 	google-roboto-condensed-fonts \
 	make
